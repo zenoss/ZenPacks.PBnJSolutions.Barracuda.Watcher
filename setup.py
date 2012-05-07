@@ -17,7 +17,7 @@
 NAME = 'ZenPacks.PBnJSolutions.Barracuda.Watcher'
 VERSION = '1.3'
 AUTHOR = 'Paul Winkeler'
-LICENSE = ''
+LICENSE = "GPLv2"
 NAMESPACE_PACKAGES = ['ZenPacks', 'ZenPacks.PBnJSolutions', 'ZenPacks.PBnJSolutions.Barracuda']
 PACKAGES = ['ZenPacks', 'ZenPacks.PBnJSolutions', 'ZenPacks.PBnJSolutions.Barracuda']
 INSTALL_REQUIRES = []
